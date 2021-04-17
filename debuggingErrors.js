@@ -1,4 +1,5 @@
 // Before
+    // This should added closing parentheses 
 // function isSumBigger(number1, number2, total {
 //     const sum = number1 + number2;
     // numberSum is not defined, subtitute with sum
